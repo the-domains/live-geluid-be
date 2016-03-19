@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[live-geluid.be]]></title>
+        <description><![CDATA[live-geluid.be]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 19 Mar 2016 20:26:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined9a62780c-0e84-4318-854a-93bf14a41d62/index.html</link>
+            <guid isPermaLink="false">9a62780c-0e84-4318-854a-93bf14a41d62</guid>
+            <pubDate>Sat, 19 Mar 2016 20:26:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
