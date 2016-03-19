@@ -2,13 +2,21 @@
     <channel>
         <title><![CDATA[live-geluid.be]]></title>
         <description><![CDATA[live-geluid.be]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/live-geluid-be/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Mar 2016 20:26:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Mar 2016 20:29:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/live-geluid-be/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined9a62780c-0e84-4318-854a-93bf14a41d62/index.html</link>
+            <description><![CDATA[<p>V</p>]]></description>
+            <link>https://thegrid.ai/live-geluid-be/8df1116c-8a7d-4834-a088-a550d5681f14/index.html</link>
+            <guid isPermaLink="false">8df1116c-8a7d-4834-a088-a550d5681f14</guid>
+            <pubDate>Sat, 19 Mar 2016 20:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Verhuur PA-materiaalMartin Audio geluidsset (3000 watt)live shows voor zalen tot 250 personen2x Martin Audio ws2 15" subs2x Martin Audio wt2 topkasten5x QSC K12 monitors (1000 watt per stuk)Digitaal mengpaneel van 16 kanalen (X32)Digitale multikabel van 50 meter + stageboxPro microfoonset + statieven  2 multis van 8 kanalenen, xlr kabels en stroomkabelsVerhuur per dag inclusief technieker en transport: 450 euro incl. btw</p>]]></description>
+            <link>https://thegrid.ai/live-geluid-be/9a62780c-0e84-4318-854a-93bf14a41d62/index.html</link>
             <guid isPermaLink="false">9a62780c-0e84-4318-854a-93bf14a41d62</guid>
             <pubDate>Sat, 19 Mar 2016 20:26:15 GMT</pubDate>
         </item>
