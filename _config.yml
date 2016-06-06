@@ -1,28 +1,40 @@
-name: live-geluid.be
+layout_spectrum: 0
 favicon: null
-layout_spectrum: 0.3808972272090614
-typography_spectrum: 0.5878218770958483
-cta:
-  domain: null
-  bucket: null
-  version: null
+name: live-geluid.be
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.3971835719421506
+  lightness: 0.1552261
+  saturation: 0.09787234
+  rhythmicContrast: 0.1085106
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.3971835719421506
-  lightness: 0.15522611839696765
-  saturation: 0.5888934785034508
-  rhythmicContrast: 0.5932061816565692
-purpose: []
+typography_spectrum: 0.5878218770958483
